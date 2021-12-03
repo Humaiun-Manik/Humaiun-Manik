@@ -1,18 +1,33 @@
-<h1 align="center">Hi 👋, I'm Humaiun Kabir</h1>
-<h3 align="center">MERN Stack Developer</h3>
+![MERN Stack Developer](https://media-exp1.licdn.com/dms/image/C5616AQGhXotgP6FJwg/profile-displaybackgroundimage-shrink_350_1400/0/1638392256493?e=1643846400&v=beta&t=9axKwkep22S6tsqub8Kl9XoWcQpYAHz0UvV70pco8OE)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=humaiun-manik&label=Profile%20views&color=0e75b6&style=flat" alt="humaiun-manik" /> </p>
+### Hi there 👋, I'm Humaiun Kabir
+#### MERN Stack Developer
 
-- 🔭 I’m currently working on **ema-john**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/humaiun kabir mahil (মানিক)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="humaiun kabir mahil (মানিক)" height="30" width="40" /></a>
-</p>
+Hello! I'm a junior MERN Stack web developer with solid knowledge in different technologies & enough experience in creating & designing super responsive website. I worked for over a year web application design & development. I love doing most things with javascript(ES 6). I have completed my BSc in Computer Science and Engineering from Daffodil International University (DIU). I have some knowledge about PHP and MySQL.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+Skills: REACT / JS / HTML / CSS / NODE / EXPRESS / MONGODB
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=humaiun-manik&show_icons=true&locale=en&layout=compact" alt="humaiun-manik" /></p>
+- 🔭 I’m currently working on Genius Car Mechanics 
+- 🌱 I’m currently learning JavaScript 
+- 👯 I’m looking to collaborate on github 
+- 💬 Ask me about Web Development 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=humaiun-manik&" alt="humaiun-manik" /></p>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Humaiun-Manik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/humaiun-kabir71/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/humaiun71)  
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Humaiun-Manik)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Humaiun-Manik)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Humaiun-Manik&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Humaiun-Manik)  
+
+![GitHub metrics](https://metrics.lecoq.io/Humaiun-Manik)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Humaiun-Manik)  
+
+![Profile views](https://gpvc.arturio.dev/Humaiun-Manik)  
