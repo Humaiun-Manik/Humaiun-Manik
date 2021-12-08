@@ -27,4 +27,6 @@ Hello! I'm a junior MERN Stack web developer who is passionate about making erro
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Humaiun-Manik&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Humaiun-Manik)
+ 
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/humaiun71)  
    
