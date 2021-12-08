@@ -11,14 +11,12 @@
 Hello! I'm a junior MERN Stack web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-word problems. I am strategic, goal-oriented, and always work with an end goal in mind.
  
 ## 👨‍💻 Skills & Experiance:
+<img align="right" src="https://ibb.co/wJGF9j2" width="250"/>
 ✅ React <br>
 ✅ JavaScript <br>
 ✅ HTML5 / CSS3 / Bootstrap <br>
 ✅ MongoDB <br>
 ✅ Node.js <br><br>
-
-<img align="right" src="https://camo.githubusercontent.com/7ebfa5d1a22b6d11490a9e69b433a0d07cc67afb973beb974e79b623451c4b66/68747470733a2f2f6d656469612d657870312e6c6963646e2e636f6d2f646d732f696d6167652f4334443136415148525a484a764b69366378512f70726f66696c652d646973706c61796261636b67726f756e64696d6167652d736872696e6b5f3335305f313430302f302f313633383839323339313031333f653d3136343434353132303026763d6265746126743d67662d3845332d56675135767138315871437672583250777a74637631372d59303164434f357655384f30" width="250"/>
- 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
