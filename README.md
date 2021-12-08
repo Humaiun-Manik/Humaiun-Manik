@@ -11,7 +11,7 @@
 Hello! I'm a junior MERN Stack web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-word problems. I am strategic, goal-oriented, and always work with an end goal in mind.
  
 ## 👨‍💻 Skills & Experiance:
-<img align="right" src="https://ibb.co/wJGF9j2" width="250"/>
+<img align="right" src="https://i.ibb.co/1sytDj4/3411109.jpg" width="250"/>
 ✅ React <br>
 ✅ JavaScript <br>
 ✅ HTML5 / CSS3 / Bootstrap <br>
