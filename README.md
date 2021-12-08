@@ -22,33 +22,9 @@ Hello! I'm a junior MERN Stack web developer who is passionate about making erro
 
 ## ☕ Connect with me!
 <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=red&label=facebook&logo=facebook&style=social&url=humaiun71">
-  
-Hello! I'm a junior MERN Stack web developer with solid knowledge in different technologies & enough experience in creating & designing super responsive website. I am always trying to disclosure something new every single day to become a High-Level programmer. I have completed my BSc in Computer Science and Engineering from Daffodil International University (DIU). I have some knowledge about PHP and MySQL.
-
-• Expertise: React.js, JavaScript, ES6, Bootstrap, Material UI, firebase authentication, and Rest API.
-• Comfortable: Node.js, Express.js, React Native, and MongoDB.
-• Tools: Github, VS Code, Chrome Dev tool, Heroku, Netlify.
-
-Skills: REACT / JS / HTML / CSS / NODE / EXPRESS / MONGODB
-
-- 🔭 I’m currently working on Genius Car Mechanics 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about Web Development 
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Humaiun-Manik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/humaiun-kabir71/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/humaiun71)  
-
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Humaiun-Manik)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Humaiun-Manik)](https://github.com/anuraghazra/github-readme-stats)
-
+ 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Humaiun-Manik&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Humaiun-Manik)  
-
-![GitHub metrics](https://metrics.lecoq.io/Humaiun-Manik)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Humaiun-Manik)   
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Humaiun-Manik)
+   
