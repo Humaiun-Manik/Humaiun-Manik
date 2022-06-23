@@ -1,5 +1,3 @@
-![I am GitHub Readme Generator's creator](https://media-exp1.licdn.com/dms/image/C5616AQGJp5QnoxqchQ/profile-displaybackgroundimage-shrink_350_1400/0/1643972399810?e=1649289600&v=beta&t=ihjZrRSIVJyzxo9Q-txuXJDWzvK_j7GKBU3vwb3keYw)
-
 # Hi, I'm Humaiun Kabir 👋
 <p>
 👑 I am Web Developer <br>
